@@ -1,0 +1,30 @@
+<XML>
+<Header>
+	<ResponseHeader>
+		<RequestMessageKey>
+			<RequestUUID>736496592800</RequestUUID>
+			<ServiceRequestVersion>10.2</ServiceRequestVersion>
+			<ChannelID>TAB</ChannelID>
+		</RequestMessageKey>
+		<ResponseMessageInfo>
+		    <BankId>BM3</BankId>
+		    <TimeZone>India</TimeZone>
+		</ResponseMessageInfo>
+		<HostTransaction>
+		   <Status>SUCCESS</Status>
+		</HostTransaction>
+	</ResponseHeader>
+</Header>
+<Body>
+	<executeFinacleScriptResponse>
+		<ExecuteFinacleScriptOutputVO></ExecuteFinacleScriptOutputVO>
+		<executeFinacleScript_CustomData>
+			<Salutation>MR</Salutation>
+			<First_Name>Nagaraju</First_Name>
+			<Last_Name>Revalla</Last_Name>
+			<Age>29yrs</Age>
+		</executeFinacleScript_CustomData>
+	</executeFinacleScriptResponse>
+
+</Body>
+</XML>
